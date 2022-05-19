@@ -23,4 +23,3 @@ Introduction  of program "main.m" (程序"main.m"的说明)：
 Remark:
 	You may need to set the parameter "Dmin" and "Dmax" for your problem, In this example, we set Dmin = 0.5(um), Dmax = 70(um). 
 	(你可能需要针对你的问题设置参数"Dmin"和 "Dmax"，本案例中设置Dmin = 0.5(um), Dmax = 70(um))
-
