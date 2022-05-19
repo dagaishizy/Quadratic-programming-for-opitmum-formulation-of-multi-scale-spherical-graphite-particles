@@ -17,7 +17,7 @@ Introduction  of program "main.m" (程序"main.m"的说明)：
 	Solving parameters in the quadratic programming which is H and f
 	（求解二次规划参数 H 和 f）
 3.  Model Solving (3. 模型求解)
-	The best formulation is solved by quadratic programming. The is best proportion is recorded as t. 
+	The best formulation is solved by quadratic programming. The best proportion is recorded as t. 
 	(求解二次规划问题得到最佳配比t)
 
 Remark:
