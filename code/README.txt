@@ -1,7 +1,7 @@
 This code runs in Matlab environment (本代码运行于Matlab环境)
 
 You need to put your distribution data of powder as the form as xlsx file descriped by "0. Read the data" below, then you would get the optimum formulation by "main.m".
-(你需要把粉末的分布数据排成下面叙述中 "0.Read the data" 描述的的xlsx格式，即可通过"main.m"可以得到最佳配比)
+(你需要把粉末的分布数据按照下面叙述中 "0.Read the data" 描述的xlsx格式排列，即可通过"main.m"可以得到最佳配比)
 
 Introduction  of program "main.m" (程序"main.m"的说明)：
 0. Read the data (0. 读取数据);
@@ -16,7 +16,7 @@ Introduction  of program "main.m" (程序"main.m"的说明)：
 2. Mathematical modeling (2. 数学建模)
 	Solving parameters in the quadratic programming which is H and f
 	（求解二次规划参数 H 和 f）
-3.  Model Solving (3. 模型求解)
+3. Model Solving (3. 模型求解)
 	The best formulation is solved by quadratic programming. The best proportion is recorded as t. 
 	(求解二次规划问题得到最佳配比t)
 
